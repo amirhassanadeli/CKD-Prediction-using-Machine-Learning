@@ -1,0 +1,21 @@
+# env
+.env
+.venv/
+venv/
+
+# python
+__pycache__/
+*.pyc
+
+# logs
+
+
+# database
+db.sqlite3
+*.sqlite3
+
+# media uploads
+media/
+
+# django collectstatic
+staticfiles/
